@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rovaito
 - 👀 I’m interested in learning about hacking and Programming Codes such as Python, C++, JavaScript...
-- 🌱 I’m currently studying Networks and Programming
+- 🌱 I’m currently studying Cybersecuyrity
 - 📫 How to reach me **Discord**: RøVaito
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trying to get The Binding of Isaac platinum trophie
