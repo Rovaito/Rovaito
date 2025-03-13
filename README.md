@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Cybersecuyrity
 - 📫 How to reach me **Discord**: RøVaito
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Trying to get The Binding of Isaac platinum trophie
+- ⚡ Fun fact: Trying to get The Binding of Isaac's platinum trophie
 
 <!---
 Rovaito/Rovaito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
